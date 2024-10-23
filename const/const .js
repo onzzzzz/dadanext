@@ -7,6 +7,7 @@ const  categories = [
     "All",
     "Retro",
     "PixelArt",
-    "Space"
+    "Space",
+    "Y2K"
 ]
 export default categories;
